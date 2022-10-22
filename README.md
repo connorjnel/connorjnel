@@ -1,11 +1,10 @@
 ![image](https://user-images.githubusercontent.com/51511531/197359782-2761fc1e-bb45-46f5-89c0-8088ec90221c.png)
 
-### Howdy, I'm Connor 
+# Howdy, I'm Connor 
 
-Your average neighberhood Software Engineer, mainly doing Frontend but finding Python interestesting.
+## 🎓 I'm a Frontend Engineer
 
-- 🔭 I’m currently working on JS Projects 
-- 🔭 Basically just personal projects im doing for fun, also get to use JS I don't get to use in production most of the time
+- 🔭 I’m currently working on Personal Projects, fun JS I haven't used in a while.
 - 🌱 Also currently learning Python, finding it very interesting coming from mainly Frontend
 
 ## :trophy: My Github Stats:
