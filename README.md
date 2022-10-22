@@ -45,6 +45,6 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=connorjnel&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&hide=php&theme=dracula">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&hide=php&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&hide=php&theme=dracula&layout=compact" />
 </a>
 </div>
