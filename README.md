@@ -4,7 +4,7 @@
 ## 🎓 I'm a Frontend Engineer
 <br />
 
-- 🔭 I’m currently working on Personal Projects, fun JS I haven't used in a while.
+- 🔭 I’m currently working on personal projects.
 - 🌱 Also currently learning Python, finding it very interesting coming from mainly Frontend
 <br />
 
