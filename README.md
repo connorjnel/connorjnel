@@ -1,11 +1,6 @@
-### Hi there 👋
-
-<!--
-**connorjnel/connorjnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Howdy 👋
 
 - 🔭 I’m currently working on JS Projects
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: ...
--->
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&theme=tokyonight)
