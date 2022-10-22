@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/51511531/197359782-2761fc1e-bb45-46f5-89c0-8088ec90221c.png)
-
 # Howdy, I'm Connor 
 
 <br />
