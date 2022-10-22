@@ -8,7 +8,17 @@ Your average neighberhood Software Engineer, mainly doing Frontend but finding P
 - 🔭 Basically just personal projects im doing for fun, also get to use JS I don't get to use in production most of the time
 - 🌱 Also currently learning Python, finding it very interesting coming from mainly Frontend
 
+## :trophy: My Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=connorjnel&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&theme=dracula)](https://github.com/connorjnel/github-readme-stats)
-
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=connorjnel&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=connorjnel&hide=php&theme=dracula)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=connorjnel&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=connorjnel&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&hide=php&theme=dracula">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&hide=php&theme=dracula" />
+</a>
+</div>
