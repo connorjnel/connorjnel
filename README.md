@@ -10,5 +10,5 @@ Your average neighberhood Software Engineer, mainly doing Frontend but finding P
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=connorjnel&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&layout=compact&theme=dracula)](https://github.com/connorjnel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connorjnel&theme=dracula)](https://github.com/connorjnel/github-readme-stats)
 
