@@ -1,7 +1,7 @@
 # Howdy, I'm Connor 
 <br />
 
-## 🎓 I'm a Frontend Engineer, looking to head into Fullstack using Python
+## 🎓 I'm a Frontend Engineer
 <br />
 
 - 🔭 I’m currently working on personal projects.
