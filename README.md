@@ -88,4 +88,3 @@ I've been coding for a about 5 years now, mainly Frontend with CSS and JS. Recen
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
