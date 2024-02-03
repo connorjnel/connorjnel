@@ -5,7 +5,7 @@ Frontend Developer
 I've been coding for a about 5 years now, mainly Frontend with CSS and JS. Recently started learning backend with Node and Python* 
 
 *   🌍  I'm based in England
-*   🧠  I'm learning Frontend Masters & Frontend Mentor
+*   🧠  I'm learning Launch School Python Track
 *   🤝  I'm open to collaborating on Interesting Projects, Tech For Good, Animal Charity
 
 ### Skills
