@@ -2,7 +2,7 @@ Hi 👋 My name is Connor
 =======================
 Frontend Developer
 ------------------
-I've been coding for a about 5 years now, mainly Frontend with CSS and JS. Recently started learning backend with Node and Python* 
+I've been coding for a about 5 years now, mainly Frontend. Recently started learning backend with Node and Python* 
 
 *   🌍  I'm based in England
 *   🧠  I'm learning Launch School Python Track
